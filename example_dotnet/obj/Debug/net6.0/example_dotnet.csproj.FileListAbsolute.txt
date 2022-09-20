@@ -1,0 +1,15 @@
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/bin/Debug/net6.0/example_dotnet
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/bin/Debug/net6.0/example_dotnet.deps.json
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/bin/Debug/net6.0/example_dotnet.runtimeconfig.json
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/bin/Debug/net6.0/example_dotnet.dll
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/bin/Debug/net6.0/example_dotnet.pdb
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.csproj.AssemblyReference.cache
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.AssemblyInfoInputs.cache
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.AssemblyInfo.cs
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.csproj.CoreCompileInputs.cache
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.dll
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/refint/example_dotnet.dll
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.pdb
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/example_dotnet.genruntimeconfig.cache
+/Users/charlesguo/RiderProjects/example_dotnet/example_dotnet/obj/Debug/net6.0/ref/example_dotnet.dll
